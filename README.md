@@ -5,4 +5,4 @@ build steps
 
 python -m pip install -U pip
 pip install -r requirements.txt
-python general.py
+python general.py(your scrip.py)
